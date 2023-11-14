@@ -2,20 +2,20 @@
     "tags": [
             {
                 "tag": "select",
-                "cf-input-placeholder": "plz no ...",
+                "cf-input-placeholder": "Stp Non ...",
                 "size": "2",
-                "cf-questions": "are you sure ?",
+                "cf-questions": "Es-tu sûr(e) ?",
                 "children":[
                     {
                         "tag": "option",
                         "name": "no-opts",
-                        "cf-label": "Yes i'm sur !",
+                        "cf-label": "Oui, je suis sûr(e) !",
                         "value": "opt-end"
                     },
                     {
                         "tag": "option",
                         "name": "no-opts",
-                        "cf-label": "No, i'm joke !",
+                        "cf-label": "Non, je plaisante !",
                         "value": "opt-main"
                     }
                 ]
