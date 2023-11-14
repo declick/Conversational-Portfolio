@@ -21,6 +21,7 @@
 				{
 					"tag": "option",
 					"name": "main",
+					"cf-input-placeholder": "Posez vos questions.",
 					"cf-label": "Non, je ne suis pas encore prêt(e).",
 					"value": "opt-no"
 				}
