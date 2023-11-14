@@ -1,0 +1,32 @@
+{
+	"options": {
+		"preventAutoAppend": true,
+		"preventAutoFocus": true,
+		"robotImage": "assets/img/me.png",
+		"userImage": "assets/img/user.png"
+	},
+	"tags": [
+		{
+			"tag": "select",
+			"cf-input-placeholder": "Ask away",
+			"size": "2",
+			"cf-questions": "Hey there !&&Let's get started !&&Ready to explore my portfolio ?",
+			"children":[
+				{
+					"tag": "option",
+					"name": "main",
+					"cf-label": "Yes, let's begin!",
+					"value": "opt-main"
+				},
+				{
+					"tag": "option",
+					"name": "main",
+					"cf-label": "No, I'm not ready yet",
+					"value": "opt-no"
+				}
+
+			]
+		}
+	]
+}
+	
