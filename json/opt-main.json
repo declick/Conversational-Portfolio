@@ -5,44 +5,44 @@
 			"tag": "input",
 			"type": "text",
 			"id": "intro-name",
-			"cf-input-placeholder": "Your name",
-			"cf-questions": "I'm Quentin&&remember that by clicking on your conversation bubble you can return to the previous choice&&so let's get started&&What's your name?"
+			"cf-input-placeholder": "Ton nom",
+			"cf-questions": "Moi c'est Quentin !&&N'oublie pas qu'en cliquant sur la bulle de conversation, tu peux revenir à la choix précédent.&&Quel est ton nom ?"
 		},
 
 		{
 			"tag": "select",
-			"cf-input-placeholder": "Ask away",
+			"cf-input-placeholder": "Posez vos questions.",
 			"size": "4",
-			"cf-questions": "Nice to meet you, {previous-answer}!&&I found myself stuck here! !&&So, I have plenty of time for you.&& Feel free to ask me anything...",
+			"cf-questions": "Enchanté(e), {previous-answer} !&&Je me retrouve coincé(e) ici !&&Du coup, j'ai plein de temps pour vous.&& N'hésitez pas à me poser n'importe quelle question...",
 			"children":[
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "Your experience",
+					"cf-label": "Mon expérience",
 					"value": "opt-experience"
 				},
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "Your skills",
+					"cf-label": "Mes compétences",
 					"value": "opt-skills"
 				},
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "Your projects",
+					"cf-label": "Mes projets",
 					"value": "opt-projects"
 				},
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "Tell me about yourself",
+					"cf-label": "Raconte-moi un peu de toi.",
 					"value": "opt-about"
 				},
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "Let me see your resume",
+					"cf-label": "Montre-moi ton CV.",
 					"value": "opt-resume"
 				}
 			]
