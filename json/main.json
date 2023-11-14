@@ -15,13 +15,13 @@
 				{
 					"tag": "option",
 					"name": "main",
-					"cf-label": "Yes, let's begin!",
+					"cf-label": "Oui, commençons !",
 					"value": "opt-main"
 				},
 				{
 					"tag": "option",
 					"name": "main",
-					"cf-label": "No, I'm not ready yet",
+					"cf-label": "Non, je ne suis pas encore prêt(e).",
 					"value": "opt-no"
 				}
 
