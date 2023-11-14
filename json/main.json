@@ -22,7 +22,7 @@
 					"tag": "option",
 					"name": "main",
 					"cf-label": "No, I'm not ready yet",
-					"value": "On est repartie"
+					"value": "opt-no"
 				}
 
 			]
