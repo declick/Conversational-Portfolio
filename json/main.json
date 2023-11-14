@@ -10,7 +10,7 @@
 			"tag": "select",
 			"cf-input-placeholder": "Ask away",
 			"size": "2",
-			"cf-questions": "Hey there !&&Let's get started !&&Ready to explore my portfolio ?",
+			"cf-questions": "Salut toi !&&Humm commençons.&&Prêt à explorer mon portfolio ?",
 			"children":[
 				{
 					"tag": "option",
@@ -22,7 +22,7 @@
 					"tag": "option",
 					"name": "main",
 					"cf-label": "No, I'm not ready yet",
-					"value": "opt-no"
+					"value": "On est repartie"
 				}
 
 			]
