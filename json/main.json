@@ -8,7 +8,7 @@
 	"tags": [
 		{
 			"tag": "select",
-			"cf-input-placeholder": "Ask away",
+			"cf-input-placeholder": "Posez vos questions.",
 			"size": "2",
 			"cf-questions": "Salut toi !&&Humm commençons.&&Prêt à explorer mon portfolio ?",
 			"children":[
