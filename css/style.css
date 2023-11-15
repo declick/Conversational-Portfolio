@@ -81,6 +81,10 @@ display: flex;
   }
 }
 
+.custom-theme .conversational-form  cf-input input {
+  border-radius: 20px;
+}
+
 .custom-theme .conversational-form  cf-input textarea  {
   border-radius: 20px;
 }
