@@ -76,9 +76,8 @@ display: flex;
 
 }
 @media screen and (max-width: 720px) {
-  .custom-theme .conversational-form cf-input-control-elements.animate-in cf-list-button,
-  cf-input-control-elements.animate-in cf-list-button{
-
+  .custom-theme .conversational-form  cf-list-button{
+opacity: 0;
     display: none;
   }
 }
