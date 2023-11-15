@@ -1,0 +1,48 @@
+{
+"tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Posez vos questions",
+			"size": "4",
+			"cf-questions": "Quelle partie de mon expérience souhaitez-vous connaître ?",
+			"children":[
+				{
+					"tag": "option",
+					"name": "experience-opts",
+					"cf-label": "Tes formations",
+					"value": "opt-education"
+				},
+				{
+					"tag": "option",
+					"name": "experience-opts",
+					"cf-label": "Ton parcours professionnel",
+					"value": "opt-work"
+				},
+				{
+					"tag": "option",
+					"name": "experience-opts",
+					"cf-label": "Tes langages",
+					"value": "opt-languages"
+				},
+				{
+					"tag": "option",
+					"name": "experience-opts",
+					"cf-label": "En fait, parlez-moi de tes projets",
+					"value": "opt-projects"
+				},
+				{
+					"tag": "option",
+					"name": "experience-opts",
+					"cf-label": "Parlez-moi plutot de toi !",
+					"value": "opt-about"
+				},
+				{
+					"tag": "option",
+					"name": "experience-opts",
+					"cf-label": "C'est ton CV que je voulais",
+					"value": "opt-resume"
+				}
+			]
+		}
+    ]
+}

@@ -20,13 +20,13 @@
 			"tag": "select",
 			"cf-input-placeholder": "Posez vos questions.",
 			"size": "4",
-			"cf-questions": "Enchanté(e), {previous-answer} !&&Je me retrouve coincé ici !&&Du coup, j'ai plein de temps pour vous.&& N'hésitez pas à me poser n'importe quelle question...",
+			"cf-questions": "Enchanté, {previous-answer} !&&Je me retrouve coincé ici !&&Du coup, j'ai plein de temps pour vous.&& N'hésitez pas à me poser n'importe quelle question...",
 			"children":[
 				{
 					"tag": "option",
 					"name": "main-opts",
 					"cf-label": "Ton expérience",
-					"value": "opt-experience"
+					"value": "opt-menu"
 				},
 				{
 					"tag": "option",

@@ -16,12 +16,12 @@
 					"tag": "option",
 					"name": "mylittlelashes-opts",
 					"cf-label": "Revenez en arrirère",
-					"value": "opt-experience"
+					"value": "opt-menu"
                 },
 				{
 					"tag": "option",
 					"name": "mylittlelashes-opts",
-					"cf-label": "Okay, salut !",
+					"cf-label": "Okay, ByeBye !",
 					"value": "opt-end"
                 }
 			]

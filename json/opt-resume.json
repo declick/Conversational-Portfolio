@@ -12,17 +12,17 @@
 					"cf-label": "Parlez-moi de vous",
 					"value": "opt-about"
                 },
-                {
-					"tag": "option",
-					"name": "resume-opts",
-					"cf-label": "Parlons de votre expérience",
-					"value": "opt-experience"
-				},
 				{
 					"tag": "option",
 					"name": "resume-opts",
 					"cf-label": "Parlez-moi de votre projet",
 					"value": "opt-projects"
+				},
+				{
+					"tag": "option",
+					"name": "resume-opts",
+					"cf-label": "Revenir au menu",
+					"value": "opt-menu"
 				}
 			]
 		}

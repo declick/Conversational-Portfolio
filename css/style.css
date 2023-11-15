@@ -43,23 +43,32 @@ body {
 .custom-theme .conversational-form cf-chat-response.robot {
   padding-left: 80px;
 }
-
-.custom-theme .conversational-form {
-  background-color: #F4F9FD;
+.custom-theme .conversational-form cf-chat-response.user text > p {
+  border: 1px solid #333;
+  color: rgb(0, 174, 255);
+  background-color: #fff;
 }
 
+.custom-theme .conversational-form cf-chat-response.user text > p:hover {
+  background-color: rgb(0, 174, 255);
+color: #fff;  
+}
+
+/* texte de l'assistant */
 .custom-theme .conversational-form cf-chat-response.robot text > p {
-  display: grid;
-  flex-direction: column;
-  justify-items: start;
-  font-family: 'poppins';
-  background-color: white;
+  border: 1px solid #333;
+  background-color: #fff;
+  display: table;
+}
+.custom-theme .conversational-form cf-input-button.cf-input-button {
+  background-color: rgb(0, 174, 255);
+  border-radius: 20px;
 }
 
 .custom-theme .conversational-form cf-button:hover {
-  background-color: #e3f1ff;
-}
+  background-color: rgb(0, 174, 255);
 
-.custom-theme .conversational-form textarea {
+}
+.custom-theme .conversational-form input {
   border-radius: 20px;
 }

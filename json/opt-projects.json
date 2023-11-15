@@ -27,8 +27,8 @@
 				{
 					"tag": "option",
 					"name": "project-opts",
-					"cf-label": "Parlez-moi de votre expérience",
-					"value": "opt-experience"
+					"cf-label": "Revenir au menu",
+					"value": "opt-menu"
 				}
 			]
 		}

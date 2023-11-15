@@ -9,13 +9,13 @@
 				{
 					"tag": "option",
 					"name": "courses-opts",
-					"cf-label": "Ton experience",
-					"value": "opt-experience"
+					"cf-label": "Revenir au menu",
+					"value": "opt-menu"
 				},
 				{
 					"tag": "option",
 					"name": "courses-opts",
-					"cf-label": "Okay c'est cool, salut !",
+					"cf-label": "Okay, ByeBye !",
 					"value": "opt-end"
                 }
 			]

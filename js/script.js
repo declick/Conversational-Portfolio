@@ -7,7 +7,6 @@ window.onload = () => {
 
 // Démarre la conversation
 const startConversation = (json) => {
-    // Ajoute des hooks de rappel...
     json.options.submitCallback = onFormlessSubmitted.bind(window);
     json.options.flowStepCallback = onStepCallback.bind(window);
 

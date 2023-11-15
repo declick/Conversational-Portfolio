@@ -9,13 +9,13 @@
                     {
                         "tag": "option",
                         "name": "languages-opts",
-                        "cf-label": "Dis m'en plus sur tes expériences !",
-                        "value": "opt-experience"
+                        "cf-label": "Revenir au menu",
+                        "value": "opt-menu"
                     },
                     {
                         "tag": "option",
                         "name": "languages-opts",
-                        "cf-label": "Okay à plus tard !",
+                        "cf-label": "Okay, ByeBye !",
                         "value": "opt-end"
                     }
                 ]

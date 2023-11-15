@@ -10,12 +10,12 @@
 					"tag": "option",
 					"name": "sml-opts",
 					"cf-label": "Revenez en arrère",
-					"value": "opt-experience"
+					"value": "opt-menu"
                 },
 				{
 					"tag": "option",
 					"name": "sml-opts",
-					"cf-label": "Okay, Salut !",
+					"cf-label": "Okay, ByeBye !",
 					"value": "opt-end"
                 }
 			]

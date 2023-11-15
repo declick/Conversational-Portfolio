@@ -16,13 +16,13 @@
 					"tag": "option",
 					"name": "pvs-opts",
 					"cf-label": "Parlez moi de Cryptique hash",
-					"value": "opt-criptique"
+					"value": "opt-cryptique"
 				},
 				{
 					"tag": "option",
 					"name": "pvs-opts",
-					"cf-label": "Parlez-moi de votre expérience",
-					"value": "opt-experience"
+					"cf-label": "Revenir au menu",
+					"value": "opt-menu"
 				}
 			]
 		}

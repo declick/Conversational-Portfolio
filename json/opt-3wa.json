@@ -6,12 +6,6 @@
 			"size": "2",
 			"cf-questions": "Diplomer Full-Stack Developer JS - Specialization React / Node",
 			"children":[
-				{
-					"tag": "option",
-					"name": "3wa-opts",
-					"cf-label": "À propos de ton expérience",
-					"value": "opt-experience"
-				},
                 {
                     "tag": "option",
                     "name": "education-opts",
@@ -21,7 +15,13 @@
 				{
 					"tag": "option",
 					"name": "3wa-opts",
-					"cf-label": "Okay c'est cool, salut!",
+					"cf-label": "Revenir au menu",
+					"value": "opt-menu"
+				},
+				{
+					"tag": "option",
+					"name": "3wa-opts",
+					"cf-label": "Okay, ByeBye !",
 					"value": "opt-end"
                 }
 			]
