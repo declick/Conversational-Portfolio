@@ -64,10 +64,21 @@ color: #fff;
   background-color: rgb(0, 174, 255);
   border-radius: 20px;
 }
-
+.custom-theme .conversational-form cf-button{
+  color: rgb(0, 174, 255);
+}
 .custom-theme .conversational-form cf-button:hover {
   background-color: rgb(0, 174, 255);
+color: #fff;
+}
+.custom-theme .conversational-form cf-input-control-elements {
+display: flex;
 
+}
+@media screen and (max-width: 720px) {
+  .custom-theme .conversational-form cf-input-control-elements.animate-in cf-list-button{
+    opacity: 0;
+  }
 }
 .custom-theme .conversational-form input {
   border-radius: 20px;
