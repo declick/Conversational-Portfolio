@@ -73,24 +73,15 @@ color: #fff;
 }
 .custom-theme .conversational-form cf-input-control-elements {
 display: flex;
+width: 100%;
 
 }
+
 @media screen and (max-width: 720px) {
   .custom-theme .conversational-form  cf-list-button{
-opacity: 0;
     display: none;
   }
 }
-.custom-theme .conversational-form  cf-input input {
-  border-radius: 20px;
-  border: 1px solid #333;
-}
-
-.custom-theme .conversational-form  cf-input textarea  {
-  border-radius: 20px;
-  border: 1px solid #333;
-}
-
 .custom-theme .conversational-form  cf-input input {
   border-radius: 20px;
   border: 1px solid #333;
