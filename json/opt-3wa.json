@@ -12,6 +12,12 @@
 					"cf-label": "À propos de ton expérience",
 					"value": "opt-experience"
 				},
+                {
+                    "tag": "option",
+                    "name": "education-opts",
+                    "cf-label": "Pour apprendre quoi ?",
+                    "value": "opt-cours"
+                },
 				{
 					"tag": "option",
 					"name": "3wa-opts",
