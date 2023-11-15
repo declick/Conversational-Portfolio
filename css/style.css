@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
 * {
+  box-sizing: border-box;
   font-family: 'poppins';
 }
 html {
@@ -75,21 +76,19 @@ color: #fff;
 }
 .custom-theme .conversational-form cf-input-control-elements {
 display: flex;
-width: 100%;
 
 }
-
-@media screen and (max-width: 720px) {
-  .custom-theme .conversational-form  cf-list-button{
-    display: none;
+.custom-theme .conversational-form cf-list {
+ cursor: auto;
+  
   }
+cf-input-control-elements.animate-in cf-list-button{
+  display: none;
 }
 .custom-theme .conversational-form  cf-input input {
   border-radius: 20px;
-  border: 1px solid #333;
 }
 
 .custom-theme .conversational-form  cf-input textarea  {
   border-radius: 20px;
-  border: 1px solid #333;
 }
