@@ -4,7 +4,7 @@
 			"tag": "select",
             "cf-input-placeholder": "Demandez plus de détails...",
 			"size": "3",
-			"cf-questions": "J'ai étudier l'informatique au sein de l'école 3W Académie.&&<img src='./assets/img/3wa.png'></img>",
+			"cf-questions": "C'étais pas poudlard mais pourtant la magie a opérer sur moi quand j'ai étudier au sein de l'école 3W Académie.&&<img src='./assets/img/3wa.png'></img>",
 			"children":[
 				{
 					"tag": "option",

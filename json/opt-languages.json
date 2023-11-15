@@ -4,7 +4,7 @@
                 "tag": "select",
                 "cf-input-placeholder": "Choisissez-en un",
                 "size": "2",
-                "cf-questions": "La majeure partie de mon expérience est en JavaScript, spécifiquement pour le développement web.&&J'apprécie également la programmation en JAVA et suis intéressé par l'apprentissage approfondi des compilateurs et de la programmation système.&&Mais ma principal force sont mes bases en React et Node.",
+                "cf-questions": "Imaginez-moi comme un développeur avec une recette secrète pour des projets réussis.&&Enfilez vos tabliers, car ma cuisine digitale est spécialisée en JavaScript, avec une pincée de magie React et Node.&&Pas de jonglage ici !&&Juste des lignes de code bien orchestrées pour créer un festin de fonctionnalités délicieuses.",
                 "children":[
                     {
                         "tag": "option",
