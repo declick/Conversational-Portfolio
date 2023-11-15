@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Choisissez-en un",
+			"size": "3",
+			"cf-questions": "Hey, je suis Quentin&&J'ai passé la majeure partie de ma vie profondément intéressé par la technologie&&En tant qu'adolescent, j'étais un passionné d'informatique&&passant la plupart de mon temps à bricoler avec l'ordinateur&&modifier des jeux, bricoler avec le matériel, construire des ordinateurs et comprendre&&bien sûr, jouer à des jeux&&La plupart de ces affirmations restent vraies aujourd'hui&&Je suis ouvert à des opportunités professionnelles où je peux contribuer, apprendre et évoluer&&Si vous avez une opportunité correspondant à mes compétences et à mon expérience, n'hésitez pas à me contacter<a href='mailto:et.miracle@hotmail.fr'>et.miracle@hotmail.fr</a>",
+			"children":[
+				{
+					"tag": "option",
+					"name": "about-opts",
+					"cf-label": "Parlons de votre expérience",
+					"value": "opt-experience"
+				},
+				{
+					"tag": "option",
+					"name": "about-opts",
+					"cf-label": "Parlez-moi de vos projets",
+					"value": "opt-projects"
+				},
+				{
+					"tag": "option",
+					"name": "about-opts",
+					"cf-label": "Salut !",
+					"value": "opt-end"
+				}
+			]
+		}
+    ]
+}

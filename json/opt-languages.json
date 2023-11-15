@@ -1,0 +1,24 @@
+{
+    "tags": [
+            {
+                "tag": "select",
+                "cf-input-placeholder": "Choisissez-en un",
+                "size": "2",
+                "cf-questions": "La majeure partie de mon expérience est en JavaScript, spécifiquement pour le développement web.&&J'apprécie également la programmation en JAVA et suis intéressé par l'apprentissage approfondi des compilateurs et de la programmation système.&&Mais ma principal force sont mes bases en React et Node.",
+                "children":[
+                    {
+                        "tag": "option",
+                        "name": "languages-opts",
+                        "cf-label": "Dis m'en plus sur tes expériences !",
+                        "value": "opt-experience"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "languages-opts",
+                        "cf-label": "Okay à plus tard !",
+                        "value": "opt-end"
+                    }
+                ]
+            }
+        ]
+    }

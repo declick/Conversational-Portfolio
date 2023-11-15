@@ -1,0 +1,18 @@
+{
+    "tags": [
+            {
+                "tag": "select",
+                "cf-input-placeholder": "Sur quel travail souhaitez-vous demander des informations ?",
+                "size": "1",
+                "cf-questions": "sa vas aller vite j'ai fait qu'un stage",
+                "children":[
+                    {
+                        "tag": "option",
+                        "name": "work-opts",
+                        "cf-label": "MyLittleLashes",
+                        "value": "opt-mylittlelashes"
+                    }
+                ]
+            }
+        ]
+    }

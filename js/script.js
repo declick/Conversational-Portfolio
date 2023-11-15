@@ -17,7 +17,7 @@ const startConversation = (json) => {
 
 // Le formulaire a été soumis/terminé
 const onFormlessSubmitted = () => {
-    conversation.addRobotChatResponse("Thank you for the conversation !");
+    conversation.addRobotChatResponse("Merci pour la conversation !");
 };
 
 // Rappel de l'étape
@@ -25,13 +25,13 @@ const onStepCallback = (dto, success, error) => {
     console.log(dto);
 
     if (!dto.tag._values) {
-        console.log("No conditions... continuation.");
+        console.log("Aucune condition... poursuivre.");
         success();
         return;
     }
 
     const cond = dto.tag._values[0];
-    console.log("Loading branch... " + cond);
+    console.log("Chargement de la branche... " + cond);
     loadBranch(cond, (succ) => {
         if (!succ) {
             error();

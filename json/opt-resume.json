@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Choisissez-en un",
+			"size": "3",
+			"cf-questions": "Vous pouvez consulter mon CV sur le site : <a href='https://quentinminziere.netlify.app/ressources/CV%20Quentin%20Minziere.pdf' target='_blank'>Le lien ici</a>",
+			"children":[
+				{
+					"tag": "option",
+					"name": "resume-opts",
+					"cf-label": "Parlez-moi de vous",
+					"value": "opt-about"
+                },
+                {
+					"tag": "option",
+					"name": "resume-opts",
+					"cf-label": "Parlons de votre expérience",
+					"value": "opt-experience"
+				},
+				{
+					"tag": "option",
+					"name": "resume-opts",
+					"cf-label": "Parlez-moi de votre projet",
+					"value": "opt-projects"
+				}
+			]
+		}
+    ]
+}

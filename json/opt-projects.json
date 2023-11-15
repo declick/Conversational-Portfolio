@@ -1,0 +1,36 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Choisissez-en un",
+			"size": "4",
+			"cf-questions": "Je vous est mis quelque projet en avant,&&lequel vous intéresse le plus ?",
+			"children":[
+				{
+					"tag": "option",
+					"name": "project-opts",
+					"cf-label": "HackGit",
+					"value": "opt-hackgit"
+				},
+				{
+					"tag": "option",
+					"name": "project-opts",
+					"cf-label": "Cryptique Hash",
+					"value": "opt-cryptique"
+				},
+				{
+					"tag": "option",
+					"name": "project-opts",
+					"cf-label": "Portfolio VsCode",
+					"value": "opt-pvs"
+				},
+				{
+					"tag": "option",
+					"name": "project-opts",
+					"cf-label": "Parlez-moi de votre expérience",
+					"value": "opt-experience"
+				}
+			]
+		}
+    ]
+}

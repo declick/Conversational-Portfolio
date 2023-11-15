@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Choisissez-en un",
+			"size": "3",
+			"cf-questions": "j'ai développé un script Python qui génère des commits quotidiens &&<img src='assets/img/hackgit.png'></img>&&Le script crée un fichier test.txt contenant toutes les dates de l'année&&Puis effectue un commit pour chaque date avec un message du type 'Commit {i+1}'.",
+			"children":[
+				{
+					"tag": "option",
+					"name": "hackgit-opts",
+					"cf-label": "Dite m'en plus sur Criptique-Hash",
+					"value": "opt-cryptique"
+				},
+				{
+					"tag": "option",
+					"name": "hackgit-opts",
+					"cf-label": "Parlez moi du Portfolio Vscode",
+					"value": "opt-pvs"
+				},
+				{
+					"tag": "option",
+					"name": "hackgit-opts",
+					"cf-label": "Parlez-moi de votre expérience",
+					"value": "opt-experience"
+				}
+			]
+		}
+    ]
+}

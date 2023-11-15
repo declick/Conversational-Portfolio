@@ -1,33 +1,52 @@
 {
+
 	"options": {
 		"preventAutoAppend": true,
 		"preventAutoFocus": true,
 		"robotImage": "assets/img/me.png",
 		"userImage": "assets/img/user.png"
 	},
+
 	"tags": [
+		{
+			"tag": "input",
+			"type": "text",
+			"id": "intro-main",
+			"cf-input-placeholder": "Ton nom",
+			"cf-questions": "Moi c'est Quentin !&&N'oublie pas qu'en cliquant sur la bulle de conversation, tu peux revenir à la choix précédent.&&Quel est ton nom ?"
+		},
+
 		{
 			"tag": "select",
 			"cf-input-placeholder": "Posez vos questions.",
-			"size": "2",
-			"cf-questions": "Salut toi !&&Humm commençons.&&Prêt à explorer mon portfolio ?",
+			"size": "4",
+			"cf-questions": "Enchanté(e), {previous-answer} !&&Je me retrouve coincé ici !&&Du coup, j'ai plein de temps pour vous.&& N'hésitez pas à me poser n'importe quelle question...",
 			"children":[
 				{
 					"tag": "option",
-					"name": "main",
-					"cf-label": "Oui, commençons !",
-					"value": "opt-main"
+					"name": "main-opts",
+					"cf-label": "Ton expérience",
+					"value": "opt-experience"
 				},
 				{
 					"tag": "option",
-					"name": "main",
-					"cf-input-placeholder": "Posez vos questions.",
-					"cf-label": "Non, je ne suis pas encore prêt(e).",
-					"value": "opt-no"
+					"name": "main-opts",
+					"cf-label": "Tes projets",
+					"value": "opt-projects"
+				},
+				{
+					"tag": "option",
+					"name": "main-opts",
+					"cf-label": "Raconte-moi un peu de toi.",
+					"value": "opt-about"
+				},
+				{
+					"tag": "option",
+					"name": "main-opts",
+					"cf-label": "Montre-moi ton CV.",
+					"value": "opt-resume"
 				}
-
 			]
 		}
 	]
 }
-	

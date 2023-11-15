@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+            "tag": "select",
+            "cf-input-placeholder": "Choisissez-en un",
+			"size": "3",
+			"cf-questions": "J'ai effectuer ce stage d'un mois en dans le cadre de ma formation bac+2",
+			"children":[
+				{
+					"tag": "option",
+					"name": "mylittlelashes-opts",
+					"cf-label": "Mais ta fait quoi là bas ?",
+					"value": "opt-sml"
+                },
+                {
+					"tag": "option",
+					"name": "mylittlelashes-opts",
+					"cf-label": "Revenez en arrirère",
+					"value": "opt-experience"
+                },
+				{
+					"tag": "option",
+					"name": "mylittlelashes-opts",
+					"cf-label": "Okay, salut !",
+					"value": "opt-end"
+                }
+			]
+        }
+    ]
+}

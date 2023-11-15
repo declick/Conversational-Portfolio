@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Pick one",
+			"size": "3",
+			"cf-questions": "L'objectif était de communiquer de manière cryptée sans être compris par d'autres&&L'application chiffre le texte brut et déchiffre le texte chiffré&&<img src='assets/img/criptique.png'></img></img>",
+			"children":[
+				{
+					"tag": "option",
+					"name": "cryptique-opts",
+					"cf-label": "Dite m'en plus sur hackgit",
+					"value": "opt-hackgit"
+				},
+				{
+					"tag": "option",
+					"name": "cryptique-opts",
+					"cf-label": "Parle moi un peu du portfolio",
+					"value": "opt-pvs"
+				},
+				{
+					"tag": "option",
+					"name": "cryptique-opts",
+					"cf-label": "Parlez-moi de votre expérience",
+					"value": "opt-experience"
+				}
+			]
+		}
+    ]
+}

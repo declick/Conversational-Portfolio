@@ -1,0 +1,24 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+            "cf-input-placeholder": "Demandez plus de détails...",
+			"size": "3",
+			"cf-questions": "J'ai étudier l'informatique au sein de l'école 3W Académie.&&<img src='./assets/img/3wa.png'></img>",
+			"children":[
+				{
+					"tag": "option",
+					"name": "education-opts",
+					"cf-label": "Quel diplome exactement ?",
+					"value": "opt-3wa"
+				},
+                {
+                    "tag": "option",
+                    "name": "education-opts",
+                    "cf-label": "Pour apprendre quoi ?",
+                    "value": "opt-cours"
+                }
+			]
+		}
+    ]
+}

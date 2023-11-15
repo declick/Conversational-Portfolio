@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Pick one",
+			"size": "3",
+			"cf-questions": "J'ai repris le theme de Vscode&&L'ide et le terminal est fonctionel et j'y est incorporer mon portfolio&&<img src='assets/img/vs.png'></img>&&<a href='https://quentinminziere.netlify.app/' >VsCode Projet</a>",
+			"children":[
+				{
+					"tag": "option",
+					"name": "pvs-opts",
+					"cf-label": "Dite m'en plus sur hackgit",
+					"value": "opt-hackgit"
+                },
+                {
+					"tag": "option",
+					"name": "pvs-opts",
+					"cf-label": "Parlez moi de Cryptique hash",
+					"value": "opt-criptique"
+				},
+				{
+					"tag": "option",
+					"name": "pvs-opts",
+					"cf-label": "Parlez-moi de votre expérience",
+					"value": "opt-experience"
+				}
+			]
+		}
+    ]
+}
