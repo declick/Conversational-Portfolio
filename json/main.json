@@ -13,14 +13,14 @@
 			"type": "text",
 			"id": "intro-main",
 			"cf-input-placeholder": "Ton nom",
-			"cf-questions": "Moi, c'est Quentin !&&Je ne suis pas un algorithme de stand-up,&&je fais même rire les langages de programmation les plus sérieux !&&Et toi, quel est ton nom ?"
+			"cf-questions": "Moi, c'est Quentin!&&Je ne suis pas un algorithme de stand-up,&&je fais même rire les langages de programmation les plus sérieux!&&Et toi, quel est ton nom?"
 		},
 
 		{
 			"tag": "select",
 			"cf-input-placeholder": "Posez vos questions.",
 			"size": "4",
-			"cf-questions": "Enchanté, {previous-answer} !&&Me voilà coincé ici à cause du développeur...&&Du coup, j'ai plein de temps pour vous.&&N'hésitez pas à me poser n'importe quelle question !&&Tant que ce n'est pas sur la météo binaire... ",
+			"cf-questions": "Enchanté, {previous-answer}!&&Me voilà coincé ici à cause du développeur...&&Du coup, j'ai plein de temps pour vous.&&N'hésitez pas à me poser n'importe quelle question!&&Tant que ce n'est pas sur la météo binaire... ",
 			"children":[
 				{
 					"tag": "option",
