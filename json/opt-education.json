@@ -4,7 +4,7 @@
 			"tag": "select",
             "cf-input-placeholder": "Demandez plus de détails...",
 			"size": "1",
-			"cf-questions": "C'étais pas Poudlard mais pourtant la magie a opérer sur moi quand&&J'ai un diplome d'intégrateur en réalisation d’applications web JS - React et Node.&&<a href='https://diplome.3wa.fr/minziere-quentin' target='_blank'><img src='./assets/img/3wa.png' target='blank_'></img></a>",
+			"cf-questions": "C'étais pas Poudlard mais pourtant la magie a opérer sur moi.&&J'ai un diplome d'intégrateur en réalisation d’applications web JS - React et Node.&&<a href='https://diplome.3wa.fr/minziere-quentin' target='_blank'><img src='./assets/img/3wa.png' target='blank_'></img></a>",
 			"children":[
                 {
                     "tag": "option",
