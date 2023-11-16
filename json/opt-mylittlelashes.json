@@ -11,18 +11,6 @@
 					"name": "mylittlelashes-opts",
 					"cf-label": "Mais ta fait quoi là bas ?",
 					"value": "opt-sml"
-                },
-                {
-					"tag": "option",
-					"name": "mylittlelashes-opts",
-					"cf-label": "Revenez en arrirère",
-					"value": "opt-menu"
-                },
-				{
-					"tag": "option",
-					"name": "mylittlelashes-opts",
-					"cf-label": "Okay, ByeBye !",
-					"value": "opt-end"
                 }
 			]
         }

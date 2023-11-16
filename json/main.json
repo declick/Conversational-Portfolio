@@ -19,31 +19,43 @@
 		{
 			"tag": "select",
 			"cf-input-placeholder": "Posez vos questions.",
-			"size": "4",
+			"size": "6",
 			"cf-questions": "Enchanté, {previous-answer} !&&Me voilà coincé ici à cause du développeur...&&Du coup, j'ai plein de temps pour vous.&&N'hésitez pas à me poser n'importe quelle question !&&Tant que ce n'est pas sur la météo binaire... ",
 			"children":[
 				{
 					"tag": "option",
-					"name": "main-opts",
-					"cf-label": "Ton expérience",
-					"value": "opt-menu"
+					"name": "experience-opts",
+					"cf-label": "Tes formations",
+					"value": "opt-education"
 				},
 				{
 					"tag": "option",
-					"name": "main-opts",
+					"name": "experience-opts",
+					"cf-label": "Ton parcours professionnel",
+					"value": "opt-work"
+				},
+				{
+					"tag": "option",
+					"name": "experience-opts",
+					"cf-label": "Tes langages",
+					"value": "opt-languages"
+				},
+				{
+					"tag": "option",
+					"name": "experience-opts",
 					"cf-label": "Tes projets",
 					"value": "opt-projects"
 				},
 				{
 					"tag": "option",
-					"name": "main-opts",
-					"cf-label": "Parle moi un peu de toi.",
+					"name": "experience-opts",
+					"cf-label": "Parle moi de toi",
 					"value": "opt-about"
 				},
 				{
 					"tag": "option",
-					"name": "main-opts",
-					"cf-label": "Montre-moi ton CV.",
+					"name": "experience-opts",
+					"cf-label": "Tu a un CV?",
 					"value": "opt-resume"
 				}
 			]

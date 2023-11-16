@@ -2,14 +2,14 @@
     "tags": [
         {
 			"tag": "select",
-			"cf-input-placeholder": "Pick one",
+			"cf-input-placeholder": "Choisissez-en un",
 			"size": "3",
-			"cf-questions": "L'objectif était de communiquer de manière cryptée sans être compris par d'autres&&L'application chiffre le texte brut et déchiffre le texte chiffré&&<img src='assets/img/criptique.png'></img></img>",
+			"cf-questions": "L'objectif était de communiquer de manière cryptée sans être compris par d'autres.&&L'application chiffre le texte brut et déchiffre le texte chiffré.&&<img src='assets/img/criptique.png'>&&</img> Vous pouvez la retrouvez l'application sur <a href='https://play.google.com/store/apps/details?id=com.declick.cryptiquehash' target='_blank'>google play</a>",
 			"children":[
 				{
 					"tag": "option",
 					"name": "cryptique-opts",
-					"cf-label": "Dite m'en plus sur hackgit",
+					"cf-label": "Dis m'en plus sur hackgit",
 					"value": "opt-hackgit"
 				},
 				{

@@ -29,8 +29,8 @@ body {
 }
 
 .custom-theme .conversational-form cf-chat-response.user thumb {
-  height: 58px;
-  width: 58px;
+  height: 64px;
+  width: 64px;
 }
 
 .custom-theme .conversational-form cf-chat-response.robot thumb {

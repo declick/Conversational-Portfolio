@@ -3,8 +3,8 @@
         {
 			"tag": "select",
 			"cf-input-placeholder": "Posez vos questions",
-			"size": "4",
-			"cf-questions": "Quelle partie de mon expérience souhaitez-vous connaître ?",
+			"size": "6",
+			"cf-questions": "Que voulez vous savoir de plus sur moi? Je vous écoute?",
 			"children":[
 				{
 					"tag": "option",
@@ -27,13 +27,13 @@
 				{
 					"tag": "option",
 					"name": "experience-opts",
-					"cf-label": "En fait, parlez-moi de tes projets",
+					"cf-label": "En fait, parle moi de tes projets",
 					"value": "opt-projects"
 				},
 				{
 					"tag": "option",
 					"name": "experience-opts",
-					"cf-label": "Parlez-moi plutot de toi !",
+					"cf-label": "Parle moi plutot de toi!",
 					"value": "opt-about"
 				},
 				{

@@ -2,7 +2,7 @@
     "tags": [
             {
                 "tag": "select",
-                "cf-input-placeholder": "Sur quel travail souhaitez-vous demander des informations ?",
+                "name": "work",
                 "size": "1",
                 "cf-questions": "Pas encore une rockstar du code.&&Juste un stagiaire qui a bien aimé jouer avec des lignes de code ",
                 "children":[

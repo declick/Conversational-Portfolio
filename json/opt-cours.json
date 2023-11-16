@@ -1,11 +1,11 @@
 {
-    "tags": [
-        {
-            "tag": "select",
-            "cf-input-placeholder": "Choisissez-en un",
+	"tags": [
+		{
+			"tag": "select",
+			"cf-input-placeholder": "Choisissez-en un",
 			"size": "2",
-			"cf-questions": "Intégration de maquettes, conception du responsive&&Programmation en JavaScript pour gérer la dynamique du site&&Introduction à APIContext, construction d'un site en React&&Installation d'un serveur de base de données&&Programmation sur le serveur Node, construction d'un site avec Node&&Accès aux bases de données SQL&&Construction d'une application de A à Z : React et Node&&Le tout sans potion !",
-			"children":[
+			"cf-questions": "Intégration de maquettes, conception du responsive&&Programmation en JavaScript pour gérer la dynamique du site&&Introduction à APIContext, construction d'un site en React&&Installation d'un serveur de base de données&&Programmation sur le serveur Node, construction d'un site avec Node&&Accès aux bases de données SQL&&Construction d'une application de A à Z : React et Node&&Le tout sans cheat-code !",
+			"children": [
 				{
 					"tag": "option",
 					"name": "courses-opts",
@@ -17,8 +17,8 @@
 					"name": "courses-opts",
 					"cf-label": "Okay, ByeBye !",
 					"value": "opt-end"
-                }
+				}
 			]
-        }
-    ]
+		}
+	]
 }

@@ -16,7 +16,7 @@ const startConversation = (json) => {
 
 // Le formulaire a été soumis/terminé
 const onFormlessSubmitted = () => {
-    conversation.addRobotChatResponse("Merci pour la conversation !");
+    conversation.addRobotChatResponse("Merci pour la conversation !")
 };
 
 // Rappel de l'étape

@@ -3,16 +3,9 @@
         {
 			"tag": "select",
 			"cf-input-placeholder": "Choisissez-en un",
-			"size": "3",
-			"cf-questions": "Hey, je suis Quentin&&J'ai passé la majeure partie de ma vie profondément intéressé par la technologie&&Dès l'adolescence, j'étais déjà plongé dans l'informatique passant des heures à modifier des jeux, bricoler avec le matériel, construire des ordinateurs pour comprendre et bien sûr, jouer à des jeux&&Ces passions sont toujours bien ancrées aujourd'hui.&&Si vous avez une opportunité correspondant à mes compétences et à mon expérience, n'hésitez pas à me contacter <a href='mailto:et.miracle@hotmail.fr'>et.miracle@hotmail.fr</a>",
+			"size": "2",
+			"cf-questions": "Hey, c'est toujours Quentin&&Et pour en savoir plus n'hésitez pas à me contacter au <a href='tel:+33788226031'>07.88.22.60.31</a>",
 			"children":[
-
-				{
-					"tag": "option",
-					"name": "about-opts",
-					"cf-label": "Parlez-moi de vos projets",
-					"value": "opt-projects"
-				},
 				{
 					"tag": "option",
 					"name": "about-opts",
