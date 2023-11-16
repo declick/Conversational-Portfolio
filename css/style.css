@@ -31,11 +31,13 @@ body {
 .custom-theme .conversational-form cf-chat-response.user thumb {
   height: 64px;
   width: 64px;
+  margin-top: -12px;
 }
 
 .custom-theme .conversational-form cf-chat-response.robot thumb {
   height: 64px;
   width: 64px;
+  margin-top: -12px;
   animation: floating 3s ease-in-out;
 }
 @keyframes floating {
