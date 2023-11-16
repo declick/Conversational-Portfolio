@@ -4,7 +4,7 @@
 			"tag": "select",
 			"cf-input-placeholder": "Posez vos questions",
 			"size": "6",
-			"cf-questions": "Que voulez vous savoir de plus sur moi? Je vous écoute?",
+			"cf-questions": "Que voulez-vous savoir de plus sur moi ? Je vous écoute ?",
 			"children":[
 				{
 					"tag": "option",
@@ -33,7 +33,7 @@
 				{
 					"tag": "option",
 					"name": "experience-opts",
-					"cf-label": "Parle moi plutot de toi!",
+					"cf-label": "Parle moi plutôt de toi!",
 					"value": "opt-about"
 				},
 				{

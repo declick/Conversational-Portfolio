@@ -4,7 +4,7 @@
 			"tag": "select",
 			"cf-input-placeholder": "Choisissez-en un",
 			"size": "3",
-			"cf-questions": "J'ai repris le theme de Vscode&&L'ide a plusieurs fonctionnalités et le terminal est fonctionel. J'y ai incorporer mon portfolio par là suite&&<img src='assets/img/vs.png'></img>&&<a href='https://quentinminziere.netlify.app/' target='_blank'>VsCode Projet</a>",
+			"cf-questions": "J'ai repris le theme de Vscode&&L'ide a plusieurs fonctionnalités et le terminal est fonctionel. J'y ai incorporé mon portfolio par la suite&&<img src='assets/img/vs.png'></img>&&<a href='https://quentinminziere.netlify.app/' target='_blank'>VsCode Projet</a>",
 			"children":[
 				{
 					"tag": "option",

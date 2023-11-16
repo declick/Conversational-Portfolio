@@ -4,12 +4,12 @@
             "tag": "select",
             "cf-input-placeholder": "Choisissez-en un",
 			"size": "3",
-			"cf-questions": "J'ai effectuer ce stage d'un mois dans le cadre de ma formation bac+2",
+			"cf-questions": "J'ai effectué ce stage d'un mois dans le cadre de ma formation bac+2",
 			"children":[
 				{
 					"tag": "option",
 					"name": "mylittlelashes-opts",
-					"cf-label": "Mais ta fait quoi là bas ?",
+					"cf-label": "Mais tu as fait quoi là-bas ?",
 					"value": "opt-sml"
                 }
 			]

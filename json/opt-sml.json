@@ -4,7 +4,7 @@
             "tag": "select",
             "cf-input-placeholder": "Choisissez-en un",
 			"size": "2",
-			"cf-questions": "Stage en mode entièrement distant&&Création d'un site vitrine avec Bootstrap&&Développement d'un formulaire de contact en PHP&&Ajout d'animations en JavaScript&&Déploiement et redirection DNS vers le nom de domaine&&Si vous voulez jeter un coup d'oeil ? <a target='_blank' href='https://quentinminziere.netlify.app/project-1' target='_blank'>au Projet</a>",
+			"cf-questions": "Stage en mode entièrement distant&&Création d'un site vitrine avec Bootstrap&&Développement d'un formulaire de contact en PHP&&Ajout d'animations en JavaScript&&Déploiement et redirection DNS vers le nom de domaine&&Vous voulez vous jeter un coup d'oeil ? Voici le<a target='_blank' href='https://quentinminziere.netlify.app/project-1' target='_blank'> Projet</a>",
 			"children":[
                 {
 					"tag": "option",
