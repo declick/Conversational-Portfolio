@@ -36,8 +36,13 @@ body {
 .custom-theme .conversational-form cf-chat-response.robot thumb {
   height: 64px;
   width: 64px;
+  animation: floating 3s ease-in-out;
 }
-
+@keyframes floating {
+	0% { transform: translateY(0); }
+	50% { transform: translateY(-13px); }
+	100% { transform: translateY(0); }
+}
 .custom-theme .conversational-form cf-chat-response.user {
   padding-right: 80px;
 }
