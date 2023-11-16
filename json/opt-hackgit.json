@@ -4,7 +4,7 @@
 			"tag": "select",
 			"cf-input-placeholder": "Choisissez-en un",
 			"size": "3",
-			"cf-questions": "j'ai développé un script Python qui génère des commits quotidiens &&Le script crée un fichier test.txt contenant toutes les dates de l'année&&Puis effectue un commit pour chaque date avec un message du type 'Commit {i+1}'.&&<img src='assets/img/hackgit.png'></img> Le lien du projet c'est <a href='https://quentinminziere.netlify.app/project-2' target='_blank'>par ici !</a>",
+			"cf-questions": "J'ai développé un script Python qui génère des commits quotidiens.&&Le script crée un fichier test.txt contenant toutes les dates de l'année,&&puis effectue un commit pour chaque date avec un message du type 'Commit {i+1}'.&&<img src='assets/img/hackgit.png'></img> Le lien du projet c'est <a href='https://quentinminziere.netlify.app/project-2' target='_blank'>par ici !</a>",
 			"children":[
 				{
 					"tag": "option",
