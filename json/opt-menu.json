@@ -33,13 +33,13 @@
 				{
 					"tag": "option",
 					"name": "experience-opts",
-					"cf-label": "Parle moi plutôt de toi!",
+					"cf-label": "Parle moi plutôt de toi !",
 					"value": "opt-about"
 				},
 				{
 					"tag": "option",
 					"name": "experience-opts",
-					"cf-label": "C'est ton CV que je voulais",
+					"cf-label": "C'est ton CV que je voulais !",
 					"value": "opt-resume"
 				}
 			]
