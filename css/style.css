@@ -31,7 +31,6 @@ body {
 .custom-theme .conversational-form cf-chat-response.user thumb {
   height: 64px;
   width: 64px;
-  padding-right: 20px;
 }
 
 .custom-theme .conversational-form cf-chat-response.robot thumb {
