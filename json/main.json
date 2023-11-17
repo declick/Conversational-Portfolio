@@ -13,7 +13,7 @@
 			"type": "text",
 			"id": "intro-main",
 			"cf-input-placeholder": "Ton nom",
-			"cf-questions": "Salut ! Moi, c'est Quentin !&&Je ne suis pas un algorithme de stand-up,&&et je fais rire les langages de programmation les plus sérieux !&&Et toi, quel est ton nom ?"
+			"cf-questions": "Salut ! Moi, c'est Quentin !&&Je ne suis pas un algorithme de stand-up.&&Et je fais rire les langages de programmation les plus sérieux !&&Et toi, quel est ton nom ?"
 		},
 
 		{
