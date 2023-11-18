@@ -1,5 +1,6 @@
 let conversation;
 
+
 // Charge le fichier JSON avec des données sans formulaire
 window.onload = () => {
     loadJSON("main", res => startConversation(res));
